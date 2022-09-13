@@ -1,0 +1,3 @@
+pedro 16 35,0
+juan 42 82,7
+adrian 19 85,5
